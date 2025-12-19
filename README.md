@@ -115,7 +115,7 @@ iOS/iPadOS also includes CIS BYOD/Enterprise and indigo baselines.
 
 ## How It Works
 
-![mSCP Notebook Screenshot](https://private-user-images.githubusercontent.com/46750/528530215-44bc9499-347d-46b1-84fc-1fab94c61c48.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYxMzQ0OTgsIm5iZiI6MTc2NjEzNDE5OCwicGF0aCI6Ii80Njc1MC81Mjg1MzAyMTUtNDRiYzk0OTktMzQ3ZC00NmIxLTg0ZmMtMWZhYjk0YzYxYzQ4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjE5VDA4NDk1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4ZGZkMmU1MTM4NmVkMjdjYmMwNTY1NTk3N2YwNDRiNGQ3ZGVhM2MxODQ0ZTk2MWRkODUzOGUwYjJlYjc2YTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4orVBFTpxfgccKZfcIh7BRJJqZBKh_oQeHsjbrGBm0E)
+![mSCP Notebook Screenshot](docs/images/marimo_notebook_ui.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
