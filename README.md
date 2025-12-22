@@ -24,7 +24,7 @@ This mSCP Notebook removes some of this overhead by providing a **point-and-clic
 
 For mSCP beginners and occasional explorers who tend to get distracted, this tool is a valuable asset. It eliminates the need to memorize flags and avoid typos in baseline paths. Simply select the desired options, and the tool will generate the necessary commands for you. However, it also offers a learning experience but not abstracts away the CLI tooling. This allows you to comprehend the underlying CLI tool and its flags in a more interactive manner through a structured learning path.
 
-Nonetheless, in your learning path, keep track of the excellent [mSCP documentation](https://pages.nist.gov/macos_security/) and dont be scared to take alook at the [generate_guidance.py](https://github.com/usnistgov/macos_security/blob/main/generate_guidance.py) CLI tool this notebook wraps.
+Nonetheless, in your learning path, keep track of the excellent [mSCP documentation](https://pages.nist.gov/macos_security/) and don't be scared to take a look at the [generate_guidance.py](https://github.com/usnistgov/macos_security/blob/main/generate_guidance.py) CLI tool this notebook wraps.
 
 ## How Marimo Helps
 
@@ -58,7 +58,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ## Quick Start
 
-Donwload or clone this repository, open the folder and run with `uv`.
+Download or clone this repository, open the folder and run with `uv`.
 
 ```bash
 # Clone this repository
